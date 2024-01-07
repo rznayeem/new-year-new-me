@@ -7,7 +7,7 @@
 }
 
 header {
-  background-image: url('/images/banner/banner1.png');
+  background-image: url('../images/banner/banner1.png');
   background-repeat: no-repeat;
   background-size: cover;
   padding: 250px 265px 190px 970px;
